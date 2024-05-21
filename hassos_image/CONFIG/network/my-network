@@ -5,14 +5,14 @@ type=802-11-wireless
 
 [802-11-wireless]
 mode=infrastructure
-ssid=my_ssid
+ssid=@PHICOMM_9D_5G
 # Uncomment below if your SSID is not broadcasted
 #hidden=true
 
 [802-11-wireless-security]
 auth-alg=open
 key-mgmt=wpa-psk
-psk=my_password
+psk=Tz@753951..
 
 [ipv4]
 method=auto
